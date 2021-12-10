@@ -4,7 +4,7 @@
   "description": "This documentation describes the DCS gitea API",
   "homepage": "https://github.com/idiomaspuentes/dcs",
   "bugs": {
-    "url" : "https://github.com/idiomaspuentes/dcs/issues"
+    "url": "https://github.com/idiomaspuentes/dcs/issues"
   },
   "license": "MIT",
   "main": "src/index.js",
